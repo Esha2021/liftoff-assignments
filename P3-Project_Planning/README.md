@@ -16,5 +16,5 @@ https://trello.com/b/MKRnS7nU/restaurant
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
-
+https://github.com/Esha2021/RestaurantProject/tree/master
 Include a link to your project on GitHub.
